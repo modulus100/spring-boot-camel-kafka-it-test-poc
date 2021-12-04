@@ -2,12 +2,12 @@
 Super minimalistic example of how apache kamel kafka module can 
 be tested with Spring Boot and embedded kafka
 
-###Test
+### Test
 ```
 ./gradlew test
 ```
 
-###Camel route
+### Camel route
 Gets executed 2 times with a period 500ms
 
 ![alt text](img/route.png)
