@@ -13,5 +13,5 @@ Gets executed 2 times with a period 500ms
 ![alt text](img/route.png)
 
 
-### Kafka consumer
-![alt text](img/test.png)
+### Kafka consumer test
+![alt text](img/test2.png)
