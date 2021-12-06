@@ -1,6 +1,7 @@
 # spring-boot-camel-kafka-it-test-poc
 Super minimalistic example of how apache kamel kafka module can 
-be tested with Spring Boot and embedded kafka
+be tested with Spring Boot and embedded kafka  
+Tested with Java 11 and Java 16
 
 ### Test
 ```
